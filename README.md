@@ -1,5 +1,9 @@
 - 👋 Hi, I’m Matin.
-- 👀 I’m interested in very aspect of coding!
-- 🌱 I’m currently learning js frameWork and php.
-- 💞️ I’m looking to collaborate on anything that i can.
+
+
+         -will code for free.🏚
+         -just teach me how to do it.🚀🌝
+  
+- 🌱 I’m currently studying Harvard's CS50.
+
 - 📫 How to reach me: St4rSum@gmail.com
