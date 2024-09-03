@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matin.
   
-- 🌱 I’m currently studying Harvard's CS50.
+## Will Code for Food.
 
-- 📫 How to reach me: St4rSum@gmail.com
+- 📫 How to reach me: dead.light2b@gmail.com
 
