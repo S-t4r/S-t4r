@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Instagram clone.<br>👯 I’m looking to collaborate on anything.<br>🤝 I’m looking for help with finding job opportunities.<br>🌱 I’m currently learning CS50Python, CS50AI.<br>💬 I would love to have a chat about any CS related topics.<br>⚡ Fun factFun fact, I'm a Certified Psychopath! Literally
 
-![Uploading CS50x.png…]()
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/st4r6529) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matin.makiabadi_) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Matie_st4r) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27469519) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@S-t4r_Pupa) 
 
